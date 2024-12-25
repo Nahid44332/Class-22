@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+.header-section {
+    background-image: url('img/banner-1.jpeg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.hero {
+    color: white;
+    font-size: 80px;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-left: 30px;
+}
+.hero-1 {
+    color: white;
+    font-size: 60px;
+    font-family: sans-serif;
+    margin-left: 30px;
+}
+.button {
+    background-color: #fff !important;
+   font-size: 35px !important;
+   margin-left: 30px !important;
+}
+.button:hover {
+    background-color: black !important;
+    color: white !important;
+}
