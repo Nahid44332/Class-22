@@ -34,3 +34,184 @@
     background-color: black !important;
     color: white !important;
 }
+/* hero section */
+
+@media screen and (max-width: 1133px) {
+    .hero{
+        font-size: 60px;
+        margin-left: 30px;
+    }
+}
+
+@media screen and (max-width: 951px) {
+    .hero{
+        font-size: 50px;
+        margin-left: 30px;
+    }
+}
+
+@media screen and (max-width: 763px) {
+    .hero{
+        font-size: 40px;
+        margin-left: 30px;
+    }
+}
+
+@media screen and (max-width: 659px) {
+    .hero{
+        font-size: 35px;
+        margin-left: 30px;
+    }
+}
+@media screen and (max-width: 561px) {
+    .hero{
+        font-size: 30px;
+        margin-left: 30px;
+    }
+}
+@media screen and (max-width: 475px) {
+    .hero{
+        font-size: 25px;
+        margin-left: 30px;
+    }
+}
+@media screen and (max-width: 383px) {
+    .hero{
+        font-size: 20px;
+        margin-left: 30px;
+    }
+}
+@media screen and (max-width: 339px) {
+    .hero{
+        font-size: 20px;
+        margin-left: 30px;
+    }
+}
+
+/* hero section-1 */
+@media screen and (max-width: 1133px) {
+    .hero-1{
+        font-size: 50px;
+    
+    }
+}
+
+@media screen and (max-width: 951px) {
+    .hero-1{
+        font-size: 40px;
+    
+    }
+}
+
+@media screen and (max-width: 763px) {
+    .hero-1{
+        font-size: 35px;
+        
+    }
+}
+@media screen and (max-width: 659px) {
+    .hero-1{
+        font-size: 30px;
+        
+    }
+}
+@media screen and (max-width: 561px) {
+    .hero-1{
+        font-size: 25px;
+        
+    }
+}
+@media screen and (max-width: 475px) {
+    .hero-1{
+        font-size: 20px;
+        
+    }
+}
+@media screen and (max-width: 383px) {
+    .hero-1{
+        font-size: 18px;
+        
+    }
+}
+@media screen and (max-width: 339px) {
+    .hero-1{
+        font-size: 17px;
+        
+    }
+}
+
+
+/* button responsive */
+
+@media screen and (max-width: 1133px) {
+    .button{
+        font-size: 25px !important;
+        margin-left: 30px !important;
+    
+    }
+}
+
+@media screen and (max-width: 951px) {
+    .button{
+        font-size: 25px !important;
+        margin-left: 30px !important;
+    
+    }
+}
+
+@media screen and (max-width: 763px) {
+    .button{
+        font-size: 20px !important;
+        margin-left: 30px !important;
+    
+    }
+}
+@media screen and (max-width: 763px) {
+    .button{
+        font-size: 20px !important;
+        margin-left: 30px !important;
+    
+    }
+}
+@media screen and (max-width: 763px) {
+    .button{
+        font-size: 20px !important;
+        margin-left: 30px !important;
+    
+    }
+}
+@media screen and (max-width: 659px) {
+    .button{
+        font-size: 20px !important;
+        margin-left: 30px !important;
+    
+    }
+}
+@media screen and (max-width: 561px) {
+    .button{
+        font-size: 20px !important;
+        margin-left: 30px !important;
+    
+    }
+}
+@media screen and (max-width: 475px) {
+    .button{
+        font-size: 15px !important;
+        margin-left: 30px !important;
+    
+    }
+}
+@media screen and (max-width: 383px) {
+    .button{
+        font-size: 15px !important;
+        margin-left: 30px !important;
+    
+    }
+}
+@media screen and (max-width: 339px) {
+    .button{
+        font-size: 15px !important;
+        margin-left: 30px !important;
+    
+    }
+}
