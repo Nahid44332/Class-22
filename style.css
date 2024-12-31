@@ -29,10 +29,12 @@
     background-color: #fff !important;
    font-size: 35px !important;
    margin-left: 30px !important;
+   transition: transform 0.5s ease !important;
 }
 .button:hover {
     background-color: green !important;
     color: white !important;
+    transform: translate(3px);
 }
 /* hero section */
 
@@ -40,7 +42,7 @@
     .hero{
         font-size: 60px;
         margin-left: 30px;
-    }
+    }  
 }
 
 @media screen and (max-width: 951px) {
@@ -219,11 +221,29 @@
     background-color: #85C13D !important;
     color: white !important;
     font-size: 20px !important;
-    transition: 1.5s ease !important;
+    transition: 0.5s ease !important;
     font-weight: bold !important;
     border-radius: 50px !important;
+    transition: transfrom 0.5 ease;
 }
 .button-1:hover {
     color: black !important;
     background-color: #E6E1CB !important;
+    transform: translate(5px);
+}
+.why {
+    text-align: center;
+}
+.Product-card {
+    margin: 8px;
+    border-radius: 15px;
+    background-color: #85C13D;
+    box-shadow: -10px 10px 10px #E6E1CB;
+    transition: transform 0.5s ease;
+}
+.Product-card:hover {
+    transform: translate(-10px);
+}
+.cheakout h2 {
+    text-align: center;
 }
